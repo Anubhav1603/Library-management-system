@@ -1,5 +1,13 @@
 # Library Management System
 
+## Requirements
+
+- python 3.8
+
+## Libraries Used
+
+- pick
+
 ## Features :-
 
 - Authentication system
